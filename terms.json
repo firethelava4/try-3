@@ -15,5 +15,202 @@
     "term": "Firewall",
     "definition": "A security system that monitors and controls incoming and outgoing network traffic.",
     "example": "Your computer's firewall blocked an unauthorized connection attempt."
+  },
+  {
+    "term": "Adware",
+    "definition": "Software that automatically displays or downloads advertising material.",
+    "example": "Your browser starts showing random ads after installing a free tool.",
+    "avoidance": "Be cautious when installing free software and use an ad-blocker."
+  },
+  {
+    "term": "Antivirus",
+    "definition": "Software designed to detect and remove malicious programs.",
+    "example": "Your antivirus alerts you about a detected Trojan in a downloaded file."
+  },
+  {
+    "term": "Botnet",
+    "definition": "A network of infected devices controlled by a malicious actor.",
+    "example": "A hacker uses thousands of infected computers to launch a DDoS attack.",
+    "avoidance": "Use antivirus software and keep your devices updated."
+  },
+  {
+    "term": "Brute Force Attack",
+    "definition": "A method to gain unauthorized access by systematically trying all possible passwords.",
+    "example": "A hacker attempts to log into your account by trying numerous password combinations.",
+    "avoidance": "Use strong, unique passwords and enable two-factor authentication."
+  },
+  {
+    "term": "Clickjacking",
+    "definition": "A technique that tricks users into clicking on something different from what they perceive.",
+    "example": "You click on a 'Play' button on a video but unknowingly enable a malicious script.",
+    "avoidance": "Use browser extensions that prevent clickjacking and avoid unknown websites."
+  },
+  {
+    "term": "Cookie",
+    "definition": "A small piece of data stored by a website on a user's device.",
+    "example": "A shopping site remembers your cart items by using cookies."
+  },
+  {
+    "term": "Cryptojacking",
+    "definition": "Unauthorized use of a device to mine cryptocurrency.",
+    "example": "Your device slows down significantly due to a hidden mining script.",
+    "avoidance": "Use browser extensions to block mining scripts."
+  },
+  {
+    "term": "Cyberbullying",
+    "definition": "The use of digital platforms to harass or intimidate someone.",
+    "example": "Someone sends abusive messages via social media."
+  },
+  {
+    "term": "Data Breach",
+    "definition": "An incident where sensitive information is accessed without authorization.",
+    "example": "A company announces that its customer database was stolen by hackers.",
+    "avoidance": "Use strong passwords and monitor for updates about breaches."
+  },
+  {
+    "term": "Deepfake",
+    "definition": "AI-generated fake videos or images that appear real.",
+    "example": "A video falsely showing a celebrity endorsing a product.",
+    "avoidance": "Verify content from trusted sources and cross-check authenticity."
+  },
+  {
+    "term": "Denial of Service (DoS)",
+    "definition": "An attack that makes a network or website unavailable to users.",
+    "example": "A flood of traffic overwhelms a website, causing it to crash.",
+    "avoidance": "Use security tools like firewalls and load balancers."
+  },
+  {
+    "term": "DDoS (Distributed Denial of Service)",
+    "definition": "A DoS attack launched from multiple infected devices.",
+    "example": "A major e-commerce site is taken offline by coordinated botnet traffic."
+  },
+  {
+    "term": "Domain Hijacking",
+    "definition": "Stealing control of a domain name without authorization.",
+    "example": "A hacker redirects visitors from a legitimate site to a malicious one.",
+    "avoidance": "Enable domain locking and use strong account credentials."
+  },
+  {
+    "term": "Encryption",
+    "definition": "The process of converting data into a coded format to prevent unauthorized access.",
+    "example": "Emails between two users are encrypted to prevent interception."
+  },
+  {
+    "term": "Firewall",
+    "definition": "A system that monitors and controls network traffic to protect against unauthorized access.",
+    "example": "Your firewall blocks a suspicious incoming connection."
+  },
+  {
+    "term": "Hacker",
+    "definition": "An individual skilled in technology who may use their skills to find and exploit vulnerabilities.",
+    "example": "A hacker discovers and reports a security flaw in a popular app."
+  },
+  {
+    "term": "Identity Theft",
+    "definition": "The act of stealing someone's personal information for fraudulent purposes.",
+    "example": "A criminal uses your stolen identity to open a credit card account.",
+    "avoidance": "Monitor your financial statements and use identity theft protection services."
+  },
+  {
+    "term": "Keylogger",
+    "definition": "Software or hardware that records every keystroke made on a device.",
+    "example": "A keylogger captures your login credentials for a bank website.",
+    "avoidance": "Use antivirus software and avoid public computers for sensitive activities."
+  },
+  {
+    "term": "Malvertising",
+    "definition": "Using online ads to distribute malware.",
+    "example": "You click on an ad banner, and a malicious file downloads automatically.",
+    "avoidance": "Use ad-blockers and browse trusted websites."
+  },
+  {
+    "term": "Man-in-the-Middle (MITM) Attack",
+    "definition": "An attacker secretly intercepts communication between two parties.",
+    "example": "An attacker intercepts your login details during an unencrypted Wi-Fi session.",
+    "avoidance": "Use VPNs and avoid public Wi-Fi for sensitive transactions."
+  },
+  {
+    "term": "Multi-Factor Authentication (MFA)",
+    "definition": "A security method requiring multiple forms of verification.",
+    "example": "You log in with your password and a code sent to your phone."
+  },
+  {
+    "term": "Password Manager",
+    "definition": "A tool to securely store and manage your passwords.",
+    "example": "You use a password manager to generate a strong, unique password for every account."
+  },
+  {
+    "term": "Ransomware",
+    "definition": "A type of malware that encrypts your data and demands payment to restore access.",
+    "example": "Your screen displays a message demanding payment to unlock your files.",
+    "avoidance": "Back up data regularly and avoid opening suspicious email attachments."
+  },
+  {
+    "term": "Rootkit",
+    "definition": "Software that enables unauthorized users to control a system without detection.",
+    "example": "A rootkit allows an attacker to monitor your activity unnoticed."
+  },
+  {
+    "term": "Shoulder Surfing",
+    "definition": "Observing someone's screen or keyboard to steal information.",
+    "example": "A person watches you type your PIN at an ATM.",
+    "avoidance": "Shield your screen and keyboard when entering sensitive information."
+  },
+  {
+    "term": "Social Engineering",
+    "definition": "Manipulating individuals into divulging confidential information.",
+    "example": "A caller pretending to be IT support tricks you into giving your password.",
+    "avoidance": "Be skeptical of unsolicited requests for sensitive information."
+  },
+  {
+    "term": "Spam",
+    "definition": "Unsolicited and irrelevant messages sent over the internet.",
+    "example": "Your inbox fills up with advertisements for dubious products.",
+    "avoidance": "Use spam filters and avoid responding to unknown senders."
+  },
+  {
+    "term": "Spyware",
+    "definition": "Software that secretly gathers user information without consent.",
+    "example": "A program tracks your browsing activity and sends it to advertisers.",
+    "avoidance": "Install trusted anti-spyware tools."
+  },
+  {
+    "term": "SQL Injection",
+    "definition": "A code injection technique used to attack databases.",
+    "example": "An attacker retrieves sensitive user data by exploiting a website's input field.",
+    "avoidance": "Ensure input validation and use parameterized queries in database interactions."
+  },
+  {
+    "term": "Trojan",
+    "definition": "A type of malware disguised as legitimate software.",
+    "example": "You download a free game that installs a backdoor on your system.",
+    "avoidance": "Download software only from trusted sources."
+  },
+  {
+    "term": "Two-Factor Authentication (2FA)",
+    "definition": "A security process requiring two methods of verification.",
+    "example": "Logging in requires your password and a code sent to your phone."
+  },
+  {
+    "term": "VPN (Virtual Private Network)",
+    "definition": "A tool to secure internet connections and protect privacy.",
+    "example": "You use a VPN to securely browse on public Wi-Fi."
+  },
+  {
+    "term": "Virus",
+    "definition": "Malware that replicates itself and spreads to other devices.",
+    "example": "A malicious program spreads by attaching itself to files.",
+    "avoidance": "Use antivirus software and avoid running unknown programs."
+  },
+  {
+    "term": "Worm",
+    "definition": "A self-replicating malware that spreads across networks.",
+    "example": "A worm infects all devices in a network without user action.",
+    "avoidance": "Keep systems updated and secure."
+  },
+  {
+    "term": "Zero-Day Vulnerability",
+    "definition": "A software flaw unknown to the vendor, leaving systems exposed.",
+    "example": "Hackers exploit a vulnerability before a patch is released."
   }
 ]
