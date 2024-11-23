@@ -1,4 +1,4 @@
-// Fetch the terms from the JSON file
+// Load terms.json dynamically
 let termsData = [];
 fetch('terms.json')
   .then(response => response.json())
@@ -13,7 +13,6 @@ const resultDiv = document.getElementById('result');
 const termElement = document.getElementById('term');
 const definitionElement = document.getElementById('definition');
 const exampleElement = document.getElementById('example');
-const avoidanceContainer = document.getElementById('avoidance-container');
 const avoidanceElement = document.getElementById('avoidance');
 
 // Filter terms based on input
@@ -40,16 +39,10 @@ function showResult(item) {
   termElement.textContent = item.term;
   definitionElement.textContent = item.definition;
   exampleElement.textContent = item.example;
-
-  // Check if avoidance exists and toggle visibility
-  if (item.avoidance) {
-    avoidanceElement.textContent = item.avoidance;
-    avoidanceContainer.style.display = 'block';
-  } else {
-    avoidanceContainer.style.display = 'none';
-  }
+  avoidanceElement.textContent = item.avoidance;
 
   resultDiv.style.display = 'block';
   suggestionsList.innerHTML = '';
   searchBar.value = '';
 }
+
