@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cybersecurity Dictionary</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Cybersecurity Dictionary</h1>
+    <input type="text" id="search-bar" placeholder="Type a term..." autocomplete="off">
+    <ul id="suggestions"></ul>
+    <div id="result">
+      <h2 id="term"></h2>
+      <p><strong>Definition:</strong> <span id="definition"></span></p>
+      <p><strong>Example:</strong> <span id="example"></span></p>
+      <p id="avoidance-container">
+        <strong>Avoidance:</strong> <span id="avoidance"></span>
+      </p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
