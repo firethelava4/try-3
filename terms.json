@@ -1,0 +1,19 @@
+[
+  {
+    "term": "Phishing",
+    "definition": "A fraudulent attempt to obtain sensitive information by pretending to be a trustworthy entity.",
+    "example": "You receive an email pretending to be from your bank, asking you to verify your account information.",
+    "avoidance": "Do not click on suspicious links in emails. Verify the sender's identity before sharing sensitive information."
+  },
+  {
+    "term": "Malware",
+    "definition": "Malicious software designed to harm, exploit, or otherwise compromise devices or networks.",
+    "example": "A pop-up claims you have a virus and prompts you to download a cleaning tool, which is actually malware.",
+    "avoidance": "Use trusted antivirus software and avoid downloading programs from unverified sources."
+  },
+  {
+    "term": "Firewall",
+    "definition": "A security system that monitors and controls incoming and outgoing network traffic.",
+    "example": "Your computer's firewall blocked an unauthorized connection attempt."
+  }
+]
